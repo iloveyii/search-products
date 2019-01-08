@@ -4,6 +4,7 @@ A PHP Yii 2 web application to search products based on custom search weighing a
 
 [DEMO](http://search-products.softhem.se/)
 
+![Screenshot](http://search-products.softhem.se/screenshot.png)
 
 DIRECTORY STRUCTURE
 -------------------
