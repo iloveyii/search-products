@@ -43,14 +43,15 @@ $config = [
             ],
         ],
         'db' => $db,
-        /*
         'urlManager' => [
             'enablePrettyUrl' => true,
             'showScriptName' => false,
             'rules' => [
+                '' => 'search/index',
+                'api/v1/search' => 'search/index',
+                'api/v1/search/do' => 'search/do',
             ],
         ],
-        */
     ],
     'params' => $params,
 ];
